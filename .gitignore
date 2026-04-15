@@ -1,0 +1,12 @@
+node_modules
+.env
+desktop.ini
+.DS_Store
+.eslintcache
+.npm
+.vscode
+.log
+test
+coverage
+dist
+build
